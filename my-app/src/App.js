@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import About from './components/About';
-import { Router,Route,Routes } from 'react-router-dom';
+import {Routes,Route } from 'react-router-dom';
 import TextForm from './components/TextForm';
 import BMICal from './components/BMICal';
 import Home from './components/Home';
